@@ -17,7 +17,6 @@ CompTIA Security+ (Expected: 05/2025)
 
 ## PROJECTS
 Projects: Networking Implementation
-Source:
 Platform and Technology Used: Microsoft Azure, Azure Virtual Networks, Azure Virtual Machine.
 
 ## EXPERIENCE
