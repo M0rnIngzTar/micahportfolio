@@ -29,7 +29,7 @@ Platform and Technology Used: Microsoft Azure, Azure Virtual Networks, Azure Vir
 
 ## EXPERIENCE
 #### Company: Fitzrovia IT						
-##### May 2023 – Present
+##### May 2024 – Present
 ##### Title: Junior Cyber Security Analyst
 
 •	Managed vulnerability assessments for large-scale clients, reducing over 2000 vulnerabilities to fewer than 100 independently. 
