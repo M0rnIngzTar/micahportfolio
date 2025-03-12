@@ -8,10 +8,14 @@ www.linkedin.com/in/micah-kate-saberola-72ba981a3
 I'm a dedicated Junior Cyber Security professional with hands-on experience in managing vulnerabilities, strengthening system security, and ensuring compliance with industry standards. Experienced in deploying and managing Microsoft-based security solutions to protect organizations from cyber threats.
 
 ## EDUCATION
-MIDDLESEX UNIVERSITIES						
+MIDDLESEX UNIVERSITIES	
+
 LONDON, UNITED KINGDOM
-BSc Computer Science								
+
+BSc Computer Science
+
 CLASS 2023
+
 1st Class Honours
 
 ## CERTIFICATIONS
